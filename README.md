@@ -7,7 +7,8 @@ Just install the vpk and open the "VKAIO" app.
 
 # Notes
 - The kaio plugin replaces the following kplugins:
-  - LOLIcon, reF00D, rePatch, ioPlus by dots-tb
+  - LOLIcon, rePatch, ioPlus by dots-tb
+  - reF00D by FAPS team (lul)
   - NoAvls by SilicaAndPina
   - NoNpDrm by TheFlow
   - Gamecard-MicroSD by xyzz (with uma0 mod)
