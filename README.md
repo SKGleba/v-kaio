@@ -10,5 +10,5 @@ Just install the vpk and open the "VKAIO" app.
   - LOLIcon, reF00D, rePatch, ioPlus by dots-tb
   - NoAvls by SilicaAndPina
   - NoNpDrm by TheFlow
-  - Gamecard-MicroSD by xyzz
+  - Gamecard-MicroSD by xyzz (with uma0 mod)
 - I do not own/did not write any of the listed plugins. I just created a combo for fun.
